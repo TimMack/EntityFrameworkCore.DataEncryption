@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+// Test changes for pull request...
 
 namespace Microsoft.EntityFrameworkCore.DataEncryption.Test.Helpers
 {
